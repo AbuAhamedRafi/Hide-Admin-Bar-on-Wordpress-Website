@@ -35,8 +35,4 @@ To configure plugin settings:
 
 ## Support
 
-For support or inquiries, please contact the plugin author, Abu Ahamed, via the WordPress support forums or GitHub repository.
-
-## License
-
-This plugin is licensed under the [GNU General Public License v2 or later](https://www.gnu.org/licenses/gpl-2.0.html).
+For support or inquiries, please contact the plugin author, Abu Ahamed, via the GitHub repository.
